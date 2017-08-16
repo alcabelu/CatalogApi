@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenavaroMarket.Business", "TenavaroMarket.Business\TenavaroMarket.Business.csproj", "{A7DBBEE5-CC10-4C75-8653-2A3B50A381A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Entidades", "01 Entidades", "{5A198B7F-DDD4-4D4A-9091-93F952B8D39B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Data Layer", "02 Data Layer", "{C3F97443-DAC6-4333-A0E5-2328DE8975CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Logic", "03 Logic", "{CB2FD388-1FEE-44F6-89A5-946CB3BCA24E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Services", "04 Services", "{09579B83-F078-4970-9CB2-EC85B79C9161}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 User Interface", "05 User Interface", "{2A0D3851-271A-4B0E-B850-419F2895D1BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 DataBase", "06 DataBase", "{DC4CEFDF-817F-42B2-AB90-2DA756D760C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 Test", "07 Test", "{855F810C-172E-4D0C-8207-0AD98EF84AD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 Documentation", "08 Documentation", "{DF501B77-3D32-4CDE-B344-6A67EE0A7985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7DBBEE5-CC10-4C75-8653-2A3B50A381A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DBBEE5-CC10-4C75-8653-2A3B50A381A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DBBEE5-CC10-4C75-8653-2A3B50A381A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DBBEE5-CC10-4C75-8653-2A3B50A381A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A7DBBEE5-CC10-4C75-8653-2A3B50A381A1} = {CB2FD388-1FEE-44F6-89A5-946CB3BCA24E}
+	EndGlobalSection
+EndGlobal
